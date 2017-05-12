@@ -1,9 +1,0 @@
-This is a little project that calculates water deficit for a
-garden. The script uses the Weather Underground API, which requires an API key, 
-which can be obtained at https://www.wunderground.com/. The script assumes that 
-gardens need 1 in of rain per week 
-(https://bonnieplants.com/library/how-much-water-do-vegetables-need/). The 
-script then computes how much rain was received over the last three days and 
-how much is expected in the next three days. The water deficit is the difference 
-between what is needed and what was received/expected.
-
